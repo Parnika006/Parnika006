@@ -7,9 +7,9 @@
 
 - 🔭 I’m currently working on [News Explorer App](git@github.com:Parnika006/se_final_project)
 
-- 🌱 I’m currently learning **Regular Expressions**
+- 🌱 I’m currently learning **Regular Expressions & Web Application Security**
 
-- 💬 Ask me about **JavaScript, React, HTML, CSS, Node.js, Express, MongoDB, Git, GitHub, Regex, Web Application Security, API Integration**
+- 💬 Ask me about **JavaScript, React, HTML, CSS, Node.js, Express, MongoDB, Git, GitHub, API Integration**
 
 - 📫 How to reach me **parnikasingh006@gmail.com**
 
