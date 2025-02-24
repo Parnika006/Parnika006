@@ -36,7 +36,5 @@
 
 ---
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Parnika006/Parnika006/output/github-snake.svg" alt="GitHub Snake Animation" />
-</p>
+
 
